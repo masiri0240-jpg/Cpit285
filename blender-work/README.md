@@ -1,6 +1,6 @@
 # ☕ Paris Coffee Shop Animation – Blender Project
 
-## 🎬 Introduction & Motivation
+🎬 Introduction & Motivation
 
 For our final project in the Computer Graphics (CPIT285) course, we set out to create a rich, immersive scene using Blender. Our group was inspired by the idea of a cozy coffee shop nestled in a small Parisian neighborhood—one that evokes nostalgia through the warmth of its atmosphere and the music of Fairouz playing in the background. Our goal was to transport viewers to a place where simple joys—like coffee and donuts—are celebrated, and where the ambiance feels both welcoming and reminiscent of cherished memories.
 
