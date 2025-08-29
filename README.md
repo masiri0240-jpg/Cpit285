@@ -6,7 +6,7 @@ Welcome to **Cpit285**—your interactive, OpenGL-powered adventure where you ca
 
 <div align="center">
 
-| City View | Ship Sailing | Sunset Scene |
+| orange | sunset pink | original Scene |
 |:---------:|:-----------:|:------------:|
 | ![City Skyline](https://github.com/user-attachments/assets/c0f37f1c-4702-4137-86e5-166bdef5c5f3) | ![Ship Sailing](https://github.com/user-attachments/assets/20b64880-fee9-415f-ade1-d172e2734618) | ![Sunset](https://github.com/user-attachments/assets/dce568d6-7d94-4838-a9e4-8b7f1a6e9e28) |
 
