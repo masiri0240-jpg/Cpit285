@@ -6,21 +6,22 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./photos/image1.jpg" alt="Donut Display and Interior" width="225px"/><br/>
+      <img src="./photos/image1.png" alt="Donut Display and Interior" width="225px"/><br/>
       <sub><b>Donut Display & Interior</b></sub>
     </td>
     <td align="center">
-      <img src="path/to/image2.jpg" alt="Coffee Shop Exterior" width="225px"/><br/>
+      <img src="./photos/image2.png" alt="Coffee Shop Exterior" width="225px"/><br/>
       <sub><b>Coffee Shop Exterior</b></sub>
     </td>
     <td align="center">
-      <img src="path/to/image3.jpg" alt="Outdoor Seating Close-up" width="225px"/><br/>
+      <img src="./photos/image3.png" alt="Outdoor Seating Close-up" width="225px"/><br/>
       <sub><b>Outdoor Seating Close-up</b></sub>
     </td>
   </tr>
 </table>
 
-</div>🎬 Introduction & Motivation
+</div>
+🎬 Introduction & Motivation
 
 For our final project in the Computer Graphics (CPIT285) course, we set out to create a rich, immersive scene using Blender. Our group was inspired by the idea of a cozy coffee shop nestled in a small Parisian neighborhood—one that evokes nostalgia through the warmth of its atmosphere and the music of Fairouz playing in the background. Our goal was to transport viewers to a place where simple joys—like coffee and donuts—are celebrated, and where the ambiance feels both welcoming and reminiscent of cherished memories.
 
