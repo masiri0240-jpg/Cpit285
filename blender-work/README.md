@@ -6,11 +6,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./photos/image1.png" alt="Donut Display and Interior" width="225px"/><br/>
+      <img src="./photos/image1.png" alt="Coffee Shop Exterior" width="225px"/><br/>
       <sub><b>Donut Display & Interior</b></sub>
     </td>
     <td align="center">
-      <img src="./photos/image2.png" alt="Coffee Shop Exterior" width="225px"/><br/>
+      <img src="./photos/image2.png" alt="Donut Display and Interior" width="225px"/><br/>
       <sub><b>Coffee Shop Exterior</b></sub>
     </td>
     <td align="center">
