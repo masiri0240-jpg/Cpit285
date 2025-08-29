@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="path/to/image1.jpg" alt="Donut Display and Interior" width="225px"/><br/>
+      <img src="./photos/image1.jpg" alt="Donut Display and Interior" width="225px"/><br/>
       <sub><b>Donut Display & Interior</b></sub>
     </td>
     <td align="center">
